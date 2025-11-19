@@ -1,0 +1,22 @@
+title: "PM细胞营养"
+description: "德国PM细胞营养知识分享平台"
+baseurl: ""
+url: "https://yourusername.github.io"
+lang: "zh-CN"
+
+# 作者信息
+author:
+  name: "PM健康团队"
+  email: "contact@pm-nutrition.com"
+
+# 构建设置
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 自定义设置
+theme: pm-nutrition
+primary_color: "#2E8B57"
+secondary_color: "#4682B4"
